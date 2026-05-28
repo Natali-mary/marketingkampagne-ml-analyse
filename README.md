@@ -147,6 +147,8 @@ Nataliia Melnytska
 
 Data Analytics | Machine Learning | Marketing Analytics
 
+---
+
 ## Visualisierungen
 
 ---

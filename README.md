@@ -151,8 +151,6 @@ Data Analytics | Machine Learning | Marketing Analytics
 
 ## Visualisierungen
 
----
-
 ### Korrelationsmatrix
 
 ![Korrelationsmatrix](images/correlation_heatmap.png)

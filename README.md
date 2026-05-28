@@ -124,3 +124,29 @@ Durch datengetriebene Kundensegmentierung können:
 Nataliia Melnytska
 
 Data Analytics | Machine Learning | Marketing Analytics
+
+## Visualisierungen
+
+---
+
+### Korrelationsmatrix
+
+![Korrelationsmatrix](images/correlation_heatmap.png)
+
+---
+
+### Clusteranalyse
+
+![Clusteranalyse](images/cluster_visualisierung.png)
+
+---
+
+### ROC-Kurve
+
+![Konfusionsmatrix + ROC-Kurve](images/roc_curve.png)
+
+---
+
+### PCA 3D Visualisierung
+
+![PCA 3D](images/pca_3d.png)

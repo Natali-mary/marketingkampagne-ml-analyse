@@ -10,6 +10,28 @@ Das Ziel des Projekts besteht darin, personalisierte Marketingstrategien zu entw
 
 ---
 
+## Projektpräsentation
+
+📄 Die vollständige Projektpräsentation:
+
+[PDF-Präsentation öffnen](presentation/marketingkampagne_praesentation.pdf)
+
+---
+
+## Projektdateien
+
+📓 Jupyter Notebook
+
+Die vollständige Analyse, Datenaufbereitung und Modellierung befinden sich im Ordner:
+
+notebooks/
+
+📊 Datensatz
+
+Der verwendete Datensatz befindet sich im Ordner:
+
+data/
+
 ## Verwendete Technologien
 
 * Python
@@ -141,12 +163,40 @@ Data Analytics | Machine Learning | Marketing Analytics
 
 ---
 
+### PCA 3D Visualisierung
+
+![PCA 3D](images/pca_3d.png)
+
+---
+
 ### ROC-Kurve
 
 ![Konfusionsmatrix + ROC-Kurve](images/roc_curve.png)
 
 ---
 
-### PCA 3D Visualisierung
+## Projektdateien
 
-![PCA 3D](images/pca_3d.png)
+### Präsentation
+
+Die vollständige Projektpräsentation befindet sich im Ordner:
+
+```text
+presentation/
+```
+
+### Jupyter Notebook
+
+Die vollständige Analyse, Datenaufbereitung und Modellierung befinden sich im Ordner:
+
+```text
+notebooks/
+```
+
+### Datensatz
+
+Der verwendete Datensatz befindet sich im Ordner:
+
+```text
+data/
+```

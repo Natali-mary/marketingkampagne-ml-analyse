@@ -102,6 +102,14 @@ Für jedes Segment wurden konkrete Marketingmaßnahmen entwickelt.
 
 ---
 
+## Strategische Marketingempfehlungen
+
+Basierend auf der Kundensegmentierung wurden für jede Kundengruppe individuelle Marketingmaßnahmen entwickelt.
+
+![Strategische Marketing-Matrix](images/marketing_matrix.png)
+
+---
+
 ## Projektstruktur
 
 ```text
